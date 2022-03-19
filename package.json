@@ -8,7 +8,7 @@
     "css",
     "es",
     "lib",
-    "umd"
+    "dist"
   ],
   "scripts": {
     "build": "babel src -d dist"
@@ -33,7 +33,7 @@
     "react-scripts": "^5.0.0"
   },
   "author": "appwrk",
-  "homepage": "https://github.com/dev-expert/react-scratch-coupon",
+  "homepage": "https://github.com/0x0-github/react-scratch-coupon",
   "license": "MIT",
   "repository": {
     "type": "git",
